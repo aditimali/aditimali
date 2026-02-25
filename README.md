@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Building real-world data projects using Python, SQL, and visualization tools to strengthen my analytical skill set.<br><br>🤝 I’m looking to collaborate on<br><br>Data analysis projects, dashboards, and any work involving business insights, EDA, or data storytelling.<br><br>💛 I’m looking for help with<br><br>Improving my portfolio with impactful projects and learning industry-level best practices in analytics.<br><br>🌱 I’m currently learning<br><br>Advanced Excel • SQL optimization • Power BI dashboards • Statistical analysis • Machine learning basics.<br><br>💬 Ask me about<br><br>Data cleaning, exploratory data analysis, dashboards, Python (Pandas, NumPy), SQL queries, and visual storytelling.<br><br>⚡ Fun fact<br><br>I love converting messy raw data into clear insights that actually help solve business problems.
-
 
 <h1 align="center">Hi 👋, I'm Aditi Mali</h1>
 <h3 align="center">IT Undergraduate | Data Analyst | Full-Stack Developer | Cybersecurity Enthusiast</h3>
